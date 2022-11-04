@@ -3,7 +3,7 @@
   "license": "MIT",
   "main": "index.json",
   "name": "@readinghorizons/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Prettier config for Reading Horizons",
   "repository": "https://github.com/ReadingHorizons/readinghorizons-prettier",
   "publishConfig": {
