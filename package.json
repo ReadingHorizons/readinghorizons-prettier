@@ -1,0 +1,11 @@
+{
+  "author": "Christian Brown <chrisb@readinghorizons.com>",
+  "license": "MIT",
+  "main": "index.json",
+  "name": "@readinghorizons/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for Reading Horizons",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/readinghorizons"
+  }
+}
